@@ -1,9 +1,5 @@
-# Generated files
-www/index.n
-www/index.php
-www/php/
-www/client.js
-www/client.js.map
-www/server.js
-www/server.js.map
-node_modules/
+__pycache__/
+*.py[cod]
+.env
+.venv
+venv/
